@@ -2,7 +2,7 @@
 
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
-- [Maria Losada (https://github.com/codemary13)
+- [Maria Losada] (https://github.com/codemary13)
 - [Avery Novick] (https://github.com/averynov)
 - [David Mayevsky] (https://github.com/dmayevsky)
 [Brandon Wright]
